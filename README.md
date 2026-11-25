@@ -18,7 +18,7 @@ Linguagens e tecnologias
 
 Ferramentas
 
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,github" />
+<img src="https://skillicons.dev/icons?i=github,sublime,vscode" />
 
 </div>
 
@@ -43,16 +43,27 @@ Ferramentas
 <div align="center">
 
 <img src="https://img.shields.io/badge/JavaScript-Estudando-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
 <img src="https://img.shields.io/badge/SQL-Estudando-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-<br/>
+<img src="https://img.shields.io/badge/React-Estudando-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-<img src="https://img.shields.io/badge/React_Native-Estudando-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Android_Studio-Estudando-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-Estudando-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </div>
 
-⭐ Obrigado por visitar meu perfil!
+📱 Onde me encontrar
+
+<div align="center">
+
+<a href="https://www.instagram.com/arthurtronoloni/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
 
 Code. Learn. Repeat. 🚀
+
+</div>
